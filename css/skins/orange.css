@@ -1,0 +1,142 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #FF6000; }
+
+p,
+body .main-footer,
+.s-about li {
+  color: #888; }
+
+.main-footer {
+  letter-spacing: 0px; }
+
+.color_element {
+  color: #FF6000; }
+
+/*.primer_color
+	color: $color-primer*/
+.color_blue {
+  color: #1d7cbf; }
+
+.color_bg {
+  background-color: #FF6000; }
+
+.color_text-white {
+  color: #fff; }
+
+.color_border {
+  border-color: #FF6000; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_black {
+  background-color: #151515; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s-descr::after {
+    background-color: #FFF; }
+  .bg_dark a {
+    color: #fff; }
+
+svg path {
+  fill: #FF6000; }
+
+.toggle-mnu {
+  background-color: #FF6000; }
+
+.top-mnu {
+  letter-spacing: 5px; }
+  .top-mnu a:hover {
+    color: #FF6000; }
+
+.top-text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.s-descr {
+  letter-spacing: 5px; }
+  .s-descr::after {
+    background-color: #222; }
+
+.mian-footer {
+  padding: 50px 0; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.s-about p:nth-child(even) {
+  color: #FF6000; }
+
+.personal-header {
+  letter-spacing: 2px; }
+
+.resume-container h3 {
+  color: #222;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 600; }
+
+.resume-container .left .resume-description strong {
+  margin-left: 10px; }
+
+.resume-container .right .resume-description strong {
+  margin-right: 10px; }
+
+.resum-icon {
+  font-size: 40px;
+  margin-bottom: 35px; }
+
+.resume-item .year {
+  background-color: #FF6000;
+  color: #fff;
+  font-weight: 600;
+  font-style: italic; }
+
+.resume-item .year-less {
+  background-color: #1d7cbf;
+  color: #fff;
+  font-weight: 600;
+  font-style: italic; }
+
+.s-portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+  .s-portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid #FF6000; }
+
+.portfolio-item .port-item-cont a {
+  border-color: #FF6000;
+  color: #FF6000; }
+
+.main-footer a {
+  color: #FF6000; }
+
+.contacts-icons {
+  color: #FF6000; }
+
+.text-danger {
+  color: #FF6000; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #FF6000; }
+
+form input,
+form textarea {
+  letter-spacing: 2px; }
+
+form button {
+  background-color: #FF6000;
+  letter-spacing: 2px; }
+
+form .form-group {
+  letter-spacing: 2px;
+  color: #888; }
